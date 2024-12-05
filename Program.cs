@@ -18,7 +18,7 @@ namespace MyConsole
            string str= RedLine("set lower praice: ");
 
             praiceDown = decimal.Parse(str);
-
+            //hhjjlöjljl
             //countLevels=Convert.ToInt32(str);
 
             str = RedLine("set upper praice: ");
