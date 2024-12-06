@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyConsole
 {
+    //новая ветка
     internal class Program
     {
         static void Main(string[] args)
